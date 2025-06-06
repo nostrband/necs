@@ -13,3 +13,13 @@ They exist to document how services running in TEEs (Trusted Execution Environme
 - [NEC-05 Code Release Signatures](./05.md)
 - [NEC-06 TEE Key Storage](./06.md)
 - [NEC-07 Code Upgrades in TEE](./07.md)
+
+## Event Kinds
+
+| kind | description | NEC |
+|------|-------------|-----|
+| 23793 | TEE Attestation | [01](./01.md) |
+| 13793 | Service Announcement | [02](./02.md) |
+| 23794 | Builder Signature | [03](./03.md) |
+| 23795 | Instance Signature | [04](./04.md) |
+| 63794 | Release Signature | [05](./05.md) |
